@@ -20,3 +20,8 @@ Almost newbie here, no spectal skills in coding. But  I'm planning to get some;)
 - Google Ads
 - FaceBook Ads manager
 - Wordpress administration
+##Code examples 
+This is the last one
+![My code...](https://cdn1.savepice.ru/uploads/2020/2/16/3e67629ac49a71059fa962cdb1164216-full.png)
+##Experience
+**LVL** 1 [69/100] in coding. It's just start for me. To be honest  I don't have anything to demonstate, yet.
