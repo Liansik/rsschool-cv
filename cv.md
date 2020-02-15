@@ -1,2 +1,22 @@
 #Ilya Kirnichny
 ---
+## Contact Data
+[FaceBook](https://www.facebook.com/ilya.kirnichny)
+[LinkedIn](https://www.linkedin.com/in/ilya-kirnichny-27a932141/)
+[WhatsApp](https://wa.me/375298242802)
+[+375 (29) 824-28-02](tel:+375298242802)
+
+##Summary
+**Personal Development**. Those 2 words are my passion. 
+26 years, signle, funny (I hope so).
+Almost newbie here, no spectal skills in coding. But  I'm planning to get some;)
+***My goal*** - Skill hunting
+***My dream*** - Extra 7 hours in a day
+***My fear*** - Robots will take my job
+##Skills
+- HTML
+- CSS
+- Git 
+- Google Ads
+- FaceBook Ads manager
+- Wordpress administration
