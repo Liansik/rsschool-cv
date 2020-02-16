@@ -1,15 +1,12 @@
-#Ilya Kirnichny
+# Ilya Kirnichny
 ---
 ## Contact Data
-[FaceBook](https://www.facebook.com/ilya.kirnichny)
-
-[LinkedIn](https://www.linkedin.com/in/ilya-kirnichny-27a932141/)
-
-[WhatsApp](https://wa.me/375298242802)
-
-[+375 (29) 824-28-02](tel:+375298242802)
-
-##Summary
+- [FaceBook](https://www.facebook.com/ilya.kirnichny)
+- [LinkedIn](https://www.linkedin.com/in/ilya-kirnichny-27a932141/)
+- [WhatsApp](https://wa.me/375298242802)
+- [+375 (29) 824-28-02](tel:+375298242802)
+---
+## Summary
 
 **Personal Development**. Those 2 words are my passion. 
 
@@ -22,7 +19,10 @@ Almost newbie here, no spectal skills in coding. But  I'm planning to get some;)
 
 ***My fear*** - Robots will take my job
 
-##Skills
+---
+
+
+## Skills
 
 - HTML
 - CSS
@@ -30,18 +30,20 @@ Almost newbie here, no spectal skills in coding. But  I'm planning to get some;)
 - Google Ads
 - FaceBook Ads manager
 - Wordpress administration
-
-##Code examples 
+---
+## Code examples 
 
 This is the last one
 
 ![My code...](https://cdn1.savepice.ru/uploads/2020/2/16/3e67629ac49a71059fa962cdb1164216-full.png)
 
-##Experience
+---
+## Experience
 
 **LVL** 1 [69/100] in coding. It's just start for me. To be honest  I don't have anything to demonstate, yet.
 
-##Education
+---
+## Education
 
 11 grades at school
 
@@ -51,7 +53,9 @@ This is the last one
 
 2 year in advertising (Google, FaceBook)
 
-##English 
+---
+
+## English 
 
 I think it somethng avarange between B1 and B2.
 Quite good in spelling and my grammar is awful
