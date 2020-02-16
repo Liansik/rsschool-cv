@@ -6,6 +6,7 @@ Ilya Kirnichny
 - [LinkedIn](https://www.linkedin.com/in/ilya-kirnichny-27a932141/)
 - [WhatsApp](https://wa.me/375298242802)
 - [+375 (29) 824-28-02](tel:+375298242802)
+
 ---
 ## Summary
 
@@ -20,6 +21,7 @@ Almost newbie here, no spectal skills in coding. But  I'm planning to get some;)
 
 ***My fear*** - Robots will take my job
 
+
 ---
 
 
@@ -31,6 +33,8 @@ Almost newbie here, no spectal skills in coding. But  I'm planning to get some;)
 - Google Ads
 - FaceBook Ads manager
 - Wordpress administration
+
+
 ---
 ## Code examples 
 
@@ -53,6 +57,7 @@ This is the last one
 1 year in managment (Client support)
 
 2 year in advertising (Google, FaceBook)
+
 
 ---
 
